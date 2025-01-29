@@ -693,7 +693,7 @@ li.menu-active {
 .product-dec h4 {
     font-family: 'Raleway', sans-serif;
     font-weight: 600;
-    color: #1a1a1a;
+    color: #1a1a1a !important;
     font-size: 17px;
     line-height: 1.3;
     margin: 10px 0;
@@ -703,6 +703,7 @@ li.menu-active {
 .product-dec p {
     font-family: 'Open Sans', sans-serif;
     font-size: 14px;
+        color: #1a1a1a !important;
 }
 
 /*  ================================
@@ -790,7 +791,6 @@ section.tab-section {
 }
 
 
-
 #tab1:checked ~ #content1,
 #tab2:checked ~ #content2,
 #tab3:checked ~ #content3,
@@ -801,6 +801,7 @@ section.tab-section {
 .tab-part-area section > p {
     font-size: 16px;
     font-family: 'Open Sans', sans-serif;
+        color: #1a1a1a !important;
 }
 
 .tab-part-area section li {
@@ -874,7 +875,7 @@ section.tab-section {
 }
 
 .featured-title h3 {
-    color: #010101;
+    color: #010101 !important;
     font-size: 34px;
     font-weight: 600;
     text-align: center;
