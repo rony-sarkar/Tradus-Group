@@ -33,6 +33,7 @@ a {
 p {
     font-size: 14px;
     font-family: 'Open Sans', sans-serif;
+        color: #1a1a1a !important;
 }
 
 .main-div {
@@ -847,6 +848,7 @@ section.tab-section {
     position: relative;
     font-size: 14px;
     font-family: 'Open Sans', sans-serif;
+        color: #1a1a1a !important;
 }
 
 .tab-list ul li::before,
@@ -1005,7 +1007,7 @@ section.tab-section {
 }
 
 .footer-widget ul li a {
-    color: #010101;
+    color: #1a1a1a !important;
     text-transform: capitalize;
     font-weight: 700;
     transition: 0.5s;
@@ -1021,6 +1023,7 @@ section.tab-section {
     margin-bottom: 10px;
     margin-top: 56px;
     font-weight: 600;
+    color: #1a1a1a !important;
 }
 
 .footer-widget span {
