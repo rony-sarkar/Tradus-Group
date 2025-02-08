@@ -81,7 +81,9 @@
     .product-dec p,
     .tab-list ul li, 
     .product-dec ul li,
-    .footer-widget h3 {
+    .footer-widget h3,
+     .footer-widget ul li a,
+	p {
 	color: #fff !important;
 }
     .sub-btn {
