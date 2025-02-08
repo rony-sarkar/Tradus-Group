@@ -74,7 +74,19 @@
 /***** Mobile Layout *****/
 
 @media only screen and (max-width: 767px) {
-
+.main-div {
+	background: #000 !important;
+}
+    .featured-title h3,
+    .product-dec p,
+    .tab-list ul li, 
+    .product-dec ul li,
+    .footer-widget h3 {
+	color: #fff !important;
+}
+    .sub-btn {
+	background-color: #B41410;
+}
     .header-top-menu {
         text-align: center;
     }
